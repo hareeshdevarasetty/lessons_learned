@@ -1,7 +1,4 @@
 <html>
-  <head>
-    <title>Hareesh Favorites</title>
-  </head>
   <body>
     <header>Things I Have Learned at Bloc.io</header>
    <div>
