@@ -1,4 +1,3 @@
-```html
 <html>
   <head>
     <title>Hareesh Favorites</title>
@@ -16,5 +15,3 @@
    </div>
   </body>
 </html>
-```
-```
